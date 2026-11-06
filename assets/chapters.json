@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Survey",
+    "frame": 53,
+    "seconds": 2.236
+  },
+  {
+    "name": "Inspect",
+    "frame": 411,
+    "seconds": 17.342
+  },
+  {
+    "name": "Review & approve",
+    "frame": 815,
+    "seconds": 34.388
+  },
+  {
+    "name": "Intervene",
+    "frame": 866,
+    "seconds": 36.54
+  },
+  {
+    "name": "Update",
+    "frame": 1123,
+    "seconds": 47.384
+  }
+]
